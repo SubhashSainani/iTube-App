@@ -48,4 +48,4 @@ A YouTube video player app with playlist management capabilities, allowing users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/itube-app.git
+   git clone https://github.com/SubhashSainani/itube-app.git
